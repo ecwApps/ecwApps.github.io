@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ecw.eClinicalTouch10i</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>eClinicalTouch</string>
+				<string>eClinicalTouch10i</string>
 			</dict>
 		</dict>
 	</array>
